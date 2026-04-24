@@ -1,5 +1,4 @@
 # open-study-lounge
 a Peter shares stuff
 
-* [issues](https://github.com/duckspot/open-study-lounge/issues)
-* [all duckspot issues] no link yet
+* [P. Dobson - certification-of-health-care-provider-for-employees-serious-health-condition.pdf](https://github.com/duckspot/open-study-lounge/P.%20Dobson%20-%20certification-of-health-care-provider-for-employees-serious-health-condition.pdf)
